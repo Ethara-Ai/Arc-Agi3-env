@@ -275,3 +275,9 @@ WebSocket events handle real-time game sessions (connect, start_game, action, re
 ## License
 
 Built by [Ethara.AI](https://ethara.ai) for the ARC Prize. See [arcprize.org](https://arcprize.org/) for details.
+
+---
+
+## Copyright
+
+Copyright (c) 2026 Green Rider Technology LLP (Ethara AI). All rights reserved.
