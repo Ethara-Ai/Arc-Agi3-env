@@ -20,7 +20,6 @@ The web interface provides a landing page with both sections, card-based browsin
 
 ## Project Structure
 
-
 ---
 
 ## Getting Started
@@ -269,12 +268,6 @@ Additional handling for landscape orientation and high-DPI/Retina displays.
 | `GET` | `/health` | Health check |
 
 WebSocket events handle real-time game sessions (connect, start_game, action, restart, etc.).
-
----
-
-## License
-
-Built by [Ethara.AI](https://ethara.ai) for the ARC Prize. See [arcprize.org](https://arcprize.org/) for details.
 
 ---
 
